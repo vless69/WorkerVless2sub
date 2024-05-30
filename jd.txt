@@ -8,3 +8,8 @@ www.visa.com.hk
 www.visa.com.tw
 www.visa.com.sg
 www.visa.co.jp
+104.18.192.0#SJC
+104.16.192.0#SSS
+104.17.160.0#HKG527.6ms
+104.17.96.0#HKG866.9ms
+104.16.32.0HKG535.6ms

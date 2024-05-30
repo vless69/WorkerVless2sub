@@ -1,4 +1,4 @@
-vless.kk66.filegear-sg.me#default666
+vless.kk66.filegear-sg.me#default
 16.162.37.167:443#HK1
 16.162.10.198:443#HK2
 acjp2.cloudflarest.link

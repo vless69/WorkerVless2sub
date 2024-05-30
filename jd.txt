@@ -1,9 +1,9 @@
 16.162.37.167:443#HK1
 16.162.10.198:443#HK2
 64.110.74.46:45929#KR
+achk.cloudflarest.link
 acjp2.cloudflarest.link
 acsg3.cloudflarest.link
-achk.cloudflarest.link
 www.visa.com.hk
 www.visa.com.tw
 www.visa.com.sg

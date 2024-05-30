@@ -6,3 +6,6 @@ workers.cloudflare.cyou
 acjp2.cloudflarest.link
 acsg.cloudflarest.link
 acsg3.cloudflarest.link
+104.19.51.59
+162.159.152.2
+172.67.195.242

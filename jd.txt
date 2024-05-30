@@ -2,10 +2,5 @@
 16.162.10.198:443#HK2
 103.214.168.241:35557#JP
 64.110.74.46:45929#KR
-workers.cloudflare.cyou
 acjp2.cloudflarest.link
-acsg.cloudflarest.link
 acsg3.cloudflarest.link
-104.19.51.59
-162.159.152.2
-172.67.195.242

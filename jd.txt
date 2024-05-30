@@ -1,6 +1,5 @@
 16.162.37.167:443#HK1
 16.162.10.198:443#HK2
-64.110.74.46:45929#KR
 acjp2.cloudflarest.link
 acsg3.cloudflarest.link
 104.16.192.0

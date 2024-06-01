@@ -7,3 +7,10 @@ acsg3.cloudflarest.link
 104.16.192.0
 104.17.160.0
 104.16.32.0
+edgetunnel.anycast.eu.org#US
+cdn.anycast.eu.org
+8.222.221.163#SG
+47.74.37.227#JP
+8.210.110.29#HK
+146.56.149.205#JP
+20.187.89.16#HK

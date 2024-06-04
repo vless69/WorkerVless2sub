@@ -1,4 +1,4 @@
-cf.090227.xyz:443#S
+cf.090227.xyz:443#example
 acjp2.cloudflarest.link
 acsg3.cloudflarest.link
 162.159.142.8#ac2

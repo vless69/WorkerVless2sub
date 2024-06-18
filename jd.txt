@@ -1,10 +1,8 @@
 cf.090227.xyz:443#example
 acjp2.cloudflarest.link
 acsg3.cloudflarest.link
-162.159.142.8#ac2
 104.19.51.59#ac3
 198.41.221.0#ac3
-104.19.32.0
 104.16.192.0
 104.16.32.0
 104.17.96.0

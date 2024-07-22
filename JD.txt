@@ -1,0 +1,14 @@
+cf.090227.xyz
+idc.cloudns.be
+tgd.teatimegm.com
+cf.freehk.dns.army
+cfip.xxxxxxxx.tk
+acsg3.cloudflarest.link
+101.36.111.171:34237#HK
+8.210.3.24:2083#HK
+8.219.0.48:2053#SG
+168.138.191.71:14978#SG
+47.236.253.41:2053#SG
+47.76.37.57:2083#US
+162.159.153.40#CT
+162.159.152.224#CT
